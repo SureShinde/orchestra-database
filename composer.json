@@ -3,6 +3,7 @@
     "description": "Database Component for Orchestra Platform",
     "keywords": ["orchestra-platform", "orchestral", "database"],
     "license": "MIT",
+    "version": "7.0.0",
     "authors": [
         {
             "name": "Suresh Shinde",
@@ -12,7 +13,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Orchestra\\Database\\": ""
+            "Sureshinde\\OrchestraDatabase\\": ""
         }
     },
     "require": {
