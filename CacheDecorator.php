@@ -1,6 +1,6 @@
 <?php
 
-namespace Orchestra\Database;
+namespace Sureshinde\OrchestraDatabase;
 
 use Illuminate\Contracts\Cache\Repository;
 use Illuminate\Support\Collection;

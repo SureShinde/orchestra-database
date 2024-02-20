@@ -1,6 +1,6 @@
 <?php
 
-namespace Orchestra\Database\Console\Migrations;
+namespace Sureshinde\OrchestraDatabase\Console\Migrations;
 
 use Illuminate\Database\Console\Migrations\RollbackCommand as BaseCommand;
 use Symfony\Component\Console\Input\InputOption;

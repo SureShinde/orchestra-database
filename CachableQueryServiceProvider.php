@@ -1,6 +1,6 @@
 <?php
 
-namespace Orchestra\Database;
+namespace Sureshinde\OrchestraDatabase;
 
 use Illuminate\Database\Eloquent\Builder as EloquentBuilder;
 use Illuminate\Database\Query\Builder as QueryBuilder;

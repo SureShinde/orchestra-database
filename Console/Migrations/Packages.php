@@ -1,6 +1,6 @@
 <?php
 
-namespace Orchestra\Database\Console\Migrations;
+namespace Sureshinde\OrchestraDatabase\Console\Migrations;
 
 use Illuminate\Support\Collection;
 

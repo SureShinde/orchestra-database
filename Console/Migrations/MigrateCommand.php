@@ -1,6 +1,6 @@
 <?php
 
-namespace Orchestra\Database\Console\Migrations;
+namespace Sureshinde\OrchestraDatabase\Console\Migrations;
 
 use Illuminate\Contracts\Events\Dispatcher;
 use Illuminate\Database\Console\Migrations\MigrateCommand as BaseCommand;
